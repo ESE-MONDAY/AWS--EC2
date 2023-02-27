@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-notetaking-staging-10607-authRole",
+      "UnauthRoleArn": "arn:aws:iam::425738157751:role/amplify-notetaking-staging-10607-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::425738157751:role/amplify-notetaking-staging-10607-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-notetaking-staging-10607-deployment",
+      "UnauthRoleName": "amplify-notetaking-staging-10607-unauthRole",
+      "StackName": "amplify-notetaking-staging-10607",
+      "StackId": "arn:aws:cloudformation:eu-west-1:425738157751:stack/amplify-notetaking-staging-10607/958e26a0-b4a8-11ed-9bfd-0625591c5fe9",
+      "AmplifyAppId": "d3v84xkl3jpgtw"
+    },
+    "categories": {
+      "auth": {
+        "Notetaking": {}
+      }
+    }
+  }
+}
